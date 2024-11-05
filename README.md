@@ -1,2 +1,4 @@
-# DWS_Zoo
+# Datový sklad - projekt Zoo
  Projekt Zoo
+
+![image](https://github.com/user-attachments/assets/413ecad7-7041-476c-a1ed-a62fc2c84d02)
